@@ -18,3 +18,6 @@ E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.Projec
 E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.csproj.GenerateResource.Cache
 E:\APAC.NET\Deepthi\WindowsService_Test\bin\Debug\WindowsService_Test.exe
 E:\APAC.NET\Deepthi\WindowsService_Test\bin\Debug\WindowsService_Test.pdb
+E:\Deepthi\Service\WindowsService_Test\bin\Debug\WindowsService_Test.exe.config
+E:\Deepthi\Service\WindowsService_Test\obj\x86\Debug\WindowsService_Test.exe
+E:\Deepthi\Service\WindowsService_Test\obj\x86\Debug\WindowsService_Test.pdb

@@ -21,13 +21,13 @@ namespace WindowsService_Test
 
         protected override void OnStart(string[] args)
         {
-            this.WriteToFile("Simple Service started {0}");
+            this.WriteToFile("Simple Test Service started {0}");
             this.ScheduleService();
         }
 
         protected override void OnStop()
         {
-            this.WriteToFile("Simple Service stopped {0}");
+            this.WriteToFile("Simple Test Service stopped {0}");
             this.Schedular.Dispose();
         }
         private Timer Schedular;
