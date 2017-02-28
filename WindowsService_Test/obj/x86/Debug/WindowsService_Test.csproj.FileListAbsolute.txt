@@ -1,0 +1,20 @@
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\bin\Debug\WindowsService_Test.exe.config
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\bin\Debug\WindowsService_Test.exe
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\bin\Debug\WindowsService_Test.pdb
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\WindowsService_Test.ProjectInstaller.resources
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\WindowsService_Test.exe
+C:\Users\vinayaka rao\AppData\Local\Temporary Projects\WindowsService_Test\obj\x86\Debug\WindowsService_Test.pdb
+C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.exe.config
+C:\Gatepass_Development\VS 2010\WindowsService_Test\obj\x86\Debug\WindowsService_Test.exe
+C:\Gatepass_Development\VS 2010\WindowsService_Test\obj\x86\Debug\WindowsService_Test.pdb
+E:\APAC.NET\Deepthi\WindowsService_Test\bin\Debug\WindowsService_Test.exe.config
+E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.exe
+E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.pdb
+E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.csprojResolveAssemblyReference.cache
+E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.ProjectInstaller.resources
+E:\APAC.NET\Deepthi\WindowsService_Test\obj\x86\Debug\WindowsService_Test.csproj.GenerateResource.Cache
+E:\APAC.NET\Deepthi\WindowsService_Test\bin\Debug\WindowsService_Test.exe
+E:\APAC.NET\Deepthi\WindowsService_Test\bin\Debug\WindowsService_Test.pdb

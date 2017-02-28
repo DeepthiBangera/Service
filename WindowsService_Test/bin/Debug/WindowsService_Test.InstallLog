@@ -1,0 +1,12 @@
+﻿Installing assembly 'C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.InstallLog
+   assemblypath = C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.exe
+Rolling back assembly 'C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.InstallLog
+   assemblypath = C:\Gatepass_Development\VS 2010\WindowsService_Test\bin\Debug\WindowsService_Test.exe
